@@ -5,4 +5,4 @@
 [*]  console.developers.google.com
 [*] source code
 [*] connect github
-[*]
+[*] gcloud auth login
